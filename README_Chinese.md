@@ -20,10 +20,10 @@ ClinCaseCipher：使用 T5-Efficient-BASE-DL2 進行醫學數據的隱私保護�
 要設置專案環境，請按照以下步驟操作：
 
 1. 克隆倉庫：
-   ```bash
-   git clone [你的倉庫連結]
-   cd [你的倉庫目錄]
-   ```
+  ```bash
+  git clone https://github.com/nlptmu/ClinCaseCipher
+  cd ClinCaseCipher
+  ```
 
 2. 安裝所需的包：
    ```bash

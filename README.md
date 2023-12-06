@@ -21,8 +21,8 @@ To set up the project environment, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone [your-repo-link]
-   cd [your-repo-directory]
+   git clone https://github.com/nlptmu/ClinCaseCipher
+   cd ClinCaseCipher
    ```
 
 2. Install the required packages:
