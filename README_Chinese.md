@@ -1,4 +1,6 @@
-[Read in English](README.md)
+[![中文版](https://img.shields.io/badge/README-in-English-blue.svg)](README.md.md)
+[![made-with-Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=flat&logo=Jupyter)](https://jupyter.org/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nlptmu/ClinCaseCipher)
 
 # 專案標題
 ClinCaseCipher：使用 T5-Efficient-BASE-DL2 進行醫學數據的隱私保護與標準化
