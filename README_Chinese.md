@@ -10,6 +10,9 @@ ClinCaseCipher：使用 T5-Efficient-BASE-DL2 進行醫學數據的隱私保護�
 2. `fine_tune_model.ipynb`：此筆記本重點在於訓練模型，對其進行微調以達到理想的準確率。
 3. `predict.ipynb`：在這個筆記本中，使用訓練好的模型進行預測，並包括基於規則的和後處理步驟。
 
+![流程圖](image/ai-cup-Fig1.png)
+![錯誤分析](image/ai-cup-Fig2.png)
+
 ## 安裝
 
 ### 先決條件
