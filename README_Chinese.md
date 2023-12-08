@@ -1,4 +1,4 @@
-[![中文版](https://img.shields.io/badge/README-English-blue.svg)](README.md.md)
+[![中文版](https://img.shields.io/badge/READIN-English-blue.svg)](README.md.md)
 [![made-with-Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=flat&logo=Jupyter)](https://jupyter.org/)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nlptmu/ClinCaseCipher)
 
