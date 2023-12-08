@@ -11,7 +11,10 @@ ClinCaseCipher：使用 T5-Efficient-BASE-DL2 進行醫學數據的隱私保護�
 3. `predict.ipynb`：在這個筆記本中，使用訓練好的模型進行預測，並包括基於規則的和後處理步驟。
 
 ![流程圖](image/ai-cup-Fig1.png)
+## 圖一、流程圖
+
 ![錯誤分析](image/ai-cup-Fig2.png)
+## 圖一、模型生成結果-錯誤分析
 
 ## 安裝
 
