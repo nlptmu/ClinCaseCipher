@@ -1,5 +1,11 @@
 [中文版](README_Chinese.md)
 
+[![Colab](https://img.shields.io/badge/Colab-fine_tune_model-orange)](https://colab.research.google.com/github/nlptmu/ClinCaseCipher/blob/main/fine_tune_model.ipynb)
+
+[![Colab](https://img.shields.io/badge/Colab-predict-orange)](https://colab.research.google.com/github/nlptmu/ClinCaseCipher/blob/main/predict.ipynb)
+
+[![Colab](https://img.shields.io/badge/Colab-preprocessing-orange)](https://colab.research.google.com/github/nlptmu/ClinCaseCipher/blob/main/preprocessing.ipynb)
+
 # Project Title
 ClinCaseCipher: Privacy Preservation and Standardization in Medical Data using T5-Efficient-BASE-DL2
 
