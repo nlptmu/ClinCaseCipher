@@ -23,6 +23,9 @@ This project is a comprehensive guide to data preprocessing, model training, and
 </p>
 <h2 align="center">Fig2. Model generation results-Error Analysis</h2>
 
+## Data Privacy Notice
+Due to the sensitive nature of medical data and stringent privacy requirements, the datasets used in this project are not publicly available. The privacy and confidentiality of patient data are our utmost priorities, and we adhere to HIPAA and other relevant regulations to ensure data security. Consequently, the Colab notebooks provided are primarily for demonstration purposes, showcasing the code structure and output formats. They are not executable in their current form as they require access to private datasets.
+
 ## Installation
 
 ### Prerequisites
