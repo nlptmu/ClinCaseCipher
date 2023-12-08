@@ -10,11 +10,15 @@ This project is a comprehensive guide to data preprocessing, model training, and
 2. `fine_tune_model.ipynb`: This notebook focuses on training the model, fine-tuning it to achieve the desired accuracy.
 3. `predict.ipynb`: In this notebook, the trained model is used for making predictions and includes steps for rule-based and post-processing procedures.
 
-![Flowchart](image/ai-cup-Fig1.png)
-## Fig1. Flowchart
+<p align="center">
+  <img src="image/ai-cup-Fig1.png" alt="Flowchart"/>
+</p>
+<h2 align="center">Fig1. Flowchart</h2>
 
-![Error Analysis](image/ai-cup-Fig2.png)
-## Fig2. Model generation results-Error Analysis
+<p align="center">
+  <img src="image/ai-cup-Fig2.png" alt="Error Analysis"/>
+</p>
+<h2 align="center">Fig2. Model generation results-Error Analysis</h2>
 
 ## Installation
 
